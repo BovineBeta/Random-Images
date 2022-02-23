@@ -9,5 +9,5 @@
     $url = "http://example.com/".$path;
     
     //重定向到所生成的地址
-    die(header(”Location: $url"));    
+    die(header("Location: $url"));    
 ?>
