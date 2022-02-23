@@ -1,6 +1,6 @@
 <?php
     //生成随机数
-    $num = rand(1, 80);
+    $num = rand(1, 100);
     
     //拼接后缀名
     $path = $num.".png";
