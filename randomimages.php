@@ -6,7 +6,7 @@
     $path = $num.".png";
     
     //生成图片地址
-    $url = "".$path;
+    $url = "http://example.com/".$path;
     
     //重定向到所生成的地址
     die(header(”Location: $url"));    
