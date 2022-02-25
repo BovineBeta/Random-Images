@@ -2,4 +2,4 @@
 
 ![JavaScript](https://img.shields.io/static/v1?label=Language&message=JavaScript&color=red) ![PHP](https://img.shields.io/badge/Language-PHP-blue) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-使用JavaScript或PHP制作的Web随机图片接口api.
+使用JavaScript或PHP制作的Web随机图片
