@@ -3,7 +3,7 @@ window.onload=function(){
     
     //设置随机函数
     function getRndInteger(min, max) {
-        return Math.floor(Math.random() * (max - min)) + min;
+        return Math.floor(Math.random() * ((max + 1) - min)) + min;
     }
 
     //使用函数生成范围内随机数字
